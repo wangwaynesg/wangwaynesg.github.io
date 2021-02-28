@@ -2054,6 +2054,7 @@ input, select, textarea {
 		gap: 5px;
 		flex-wrap: wrap;
 		align-items: center;
+		margin-bottom: 25px;
 	}
 
 	.icon-list-heading {
